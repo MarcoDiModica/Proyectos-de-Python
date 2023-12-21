@@ -1,0 +1,46 @@
+(0.000 GB :Size )juego dev.txt 
+(0.000 GB :Size )github-recovery-codes.txt 
+(0.000 GB :Size )desktop.ini 
+(0.000 GB :Size )XXXXXXX.txt 
+(0.000 GB :Size )µTorrent.lnk 
+(0.000 GB :Size )Cemu.lnk 
+(0.000 GB :Size )Wii U USB Helper.lnk 
+(0.000 GB :Size )CINEMACHINE CAMERA.txt 
+(0.000 GB :Size )ULTRAKILL.exe - Shortcut.lnk 
+(0.000 GB :Size )python mAth.py 
+(0.000 GB :Size )BOX2D PinBall.txt 
+(0.000 GB :Size )template2dplatformer.aseprite 
+(0.000 GB :Size )platformer.png 
+(0.000 GB :Size )palanca.ogg 
+(0.000 GB :Size )palanca.mp3 
+(0.000 GB :Size )ss.JPG 
+(0.000 GB :Size )backkkkkk.png 
+(0.000 GB :Size )DI_MODICA_MARCO_MATH_2ND_ASSIGNMENT (1).rar 
+(0.000 GB :Size )DI_MODICA_MARCO_EMBEDDING_MOTIVATION.pdf 
+(0.000 GB :Size )giphy.gif 
+(0.000 GB :Size )Screenshot_2023-11-10-15-20-33-723_com.imaginbank.app-edit.jpg 
+(0.000 GB :Size )CV_DI_MODICA_ELIAS_MARCO.pdf 
+(0.000 GB :Size )tile_celeste_main (1).png 
+(0.000 GB :Size )tumblr_m98mtsL7Tg1re2oa0o1_500.gif 
+(0.000 GB :Size )boceto1.png 
+(0.000 GB :Size )boceto2.png 
+(0.000 GB :Size )Asset Packs 1-3 (final).zip 
+(0.000 GB :Size )CV_DI_MODICA_ELIAS_MARCO.JPG 
+(0.000 GB :Size )GDDVJ__Maths_2__Lab_1_23_24.pdf 
+(0.000 GB :Size )IMG_20231110_152134.jpg 
+(0.001 GB :Size )IMG_20231109_145651.jpg 
+(0.001 GB :Size )IMG_20231115_193814.jpg 
+(0.001 GB :Size )Untitled-1.ai 
+(0.001 GB :Size )G1DX.gif 
+(0.001 GB :Size )marcocv.jpg 
+(0.001 GB :Size )IMG_20231115_193805.jpg 
+(0.002 GB :Size )Worms-Physics-main.zip 
+(0.002 GB :Size )amedias.clip 
+(0.002 GB :Size )Worms-Physics-BALDAN-DIMODICA-TUR_LONGARON.zip 
+(0.002 GB :Size )musik.ogg 
+(0.003 GB :Size )musik.mp3 
+(0.003 GB :Size )PraiseTheSun-Platformer-Alpha.zip 
+(0.005 GB :Size )DEFINITIVE_BOX2D_SDL_DEV-Alpha.zip 
+(0.025 GB :Size )python-3.12.0-amd64.exe 
+(3.510 GB :Size )Super Mario Bros. Wonder [010015100B514000][v0][Base][nxbrew.com].xci 
+(6.235 GB :Size )Animal Crossing New Horizons [01006F8002326000][v0].nsp 

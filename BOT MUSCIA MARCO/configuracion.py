@@ -1,0 +1,2 @@
+BOT_TOKEN = 'MTE3NTYxNDQyNjUzNjIxODcyNg.GgIJhD.GjLieQounFzvzLOAiuYtO3zKKWpAtJvrI8Ktyo'
+BOT_PREFIX = '!'
